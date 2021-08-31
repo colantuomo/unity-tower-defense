@@ -2128,7 +2128,7 @@ MonoBehaviour:
   ROUND_TIME: 15
   SHOP_TIME: 30
   SPAWN_DELAY: 5
-  CAN_SPAWN_ENEMIES: 0
+  CAN_SPAWN_ENEMIES: 1
 --- !u!4 &709744869
 Transform:
   m_ObjectHideFlags: 0
